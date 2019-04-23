@@ -1,6 +1,6 @@
 # Keras-IRIS
 
-Implementation of IRIS database using Keras with Tensorflow backend.
+Implementation of IRIS dataset using Keras with Tensorflow backend.
 
 Please refer http://tekshinobi.com/analyzing-iris-dataset-with-keras-and-tensorflow-machine-learning-and-data-analysis/
 
